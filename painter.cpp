@@ -1,7 +1,3 @@
-/*
-Go to Options->Linker->Libraries and make sure 'Graphics Library' option is checked.
-Find the initgraph() function call in main() and change/verify the location of the 'BGI' directory to yours.
-*/
 
 #include<graphics.h>
 #include<dos.h>
